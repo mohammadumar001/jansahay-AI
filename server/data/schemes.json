@@ -1,0 +1,335 @@
+[
+  {
+    "id": "ssp-karnataka-postmatric",
+    "name": {
+      "en": "State Scholarship Portal (SSP) - Post-Matric Scholarship",
+      "kn": "ರಾಜ್ಯ ವಿದ್ಯಾರ್ಥಿವೇತನ ಪೋರ್ಟಲ್ (SSP) - ಮೆಟ್ರಿಕ್ ನಂತರದ ವಿದ್ಯಾರ್ಥಿವೇತನ",
+      "hi": "राज्य छात्रवृत्ति पोर्टल (एसएसपी) - उत्तर-मैट्रिक छात्रवृत्ति"
+    },
+    "category": "Education & Scholarship",
+    "scope": "State (Karnataka)",
+    "target_group": "Students",
+    "department": "Social Welfare & Backward Classes Welfare Dept, Govt of Karnataka",
+    "summary": {
+      "en": "Financial assistance, fee reimbursement, and maintenance allowance for post-matric students belonging to SC, ST, OBC, and Minority communities pursuing Diploma, ITI, Degree, Engineering, and PG courses.",
+      "kn": "ಎಸ್‍ಸಿ, ಎಸ್‍ಟಿ, ಒಬಿಸಿ ಮತ್ತು ಅಲ್ಪಸಂಖ್ಯಾತ ಸಮುದಾಯದ ಡಿಪ್ಲೊಮಾ, ಪದವಿ, ಇಂಜಿನಿಯರಿಂಗ್ ಮತ್ತು ಪಿಜಿ ವಿದ್ಯಾರ್ಥಿಗಳಿಗೆ ಶುಲ್ಕ ಮರುಪಾವತಿ ಮತ್ತು ಮಾಸಿಕ ನಿರ್ವಹಣಾ ಭತ್ಯೆ ನೀಡುವ ಆರ್ಥಿಕ ನೆರವು.",
+      "hi": "एससी, एसटी, ओबीसी और अल्पसंख्यक समुदायों के कक्षा 11 से लेकर स्नातक व स्नातकोत्तर तक की पढ़ाई करने वाले छात्रों के लिए शुल्क प्रतिपूर्ति और निर्वाह भत्ता।"
+    },
+    "eligibility": {
+      "states": ["Karnataka"],
+      "occupations": ["Student"],
+      "categories": ["SC", "ST", "OBC", "Minority", "Cat-1", "2A", "2B", "3A", "3B"],
+      "max_annual_income": 250000,
+      "education_level": ["Post-Matric", "PUC", "Diploma", "Undergraduate", "Postgraduate", "B.Tech", "Degree"],
+      "criteria_summary": "Karnataka domicile, admitted to recognized post-matric course, family income within limit (SC/ST: up to ₹2.5L; OBC/Minority: up to ₹1L to ₹2.5L)."
+    },
+    "benefits": {
+      "en": "100% tuition and laboratory fee concession, maintenance allowance, and hostel subsidy deposited directly via DBT.",
+      "kn": "ಸಂಪೂರ್ಣ ಬೋಧನಾ ಶುಲ್ಕ ವಿನಾಯಿತಿ ಮತ್ತು ಡಿಬಿಟಿ ಮೂಲಕ ನೇರವಾಗಿ ಬ್ಯಾಂಕ್ ಖಾತೆಗೆ ಜಮೆಯಾಗುವ ಮಾಸಿಕ ವಿದ್ಯಾರ್ಥಿವೇತನ.",
+      "hi": "100% शिक्षण शुल्क छूट और डीबीटी द्वारा सीधे बैंक खाते में मासिक निर्वाह भत्ता।"
+    },
+    "required_documents": [
+      { "id": "aadhaar", "name": "Student Aadhaar Card (Seeded with Bank Account)", "name_kn": "ವಿದ್ಯಾರ್ಥಿಯ ಆಧಾರ್ ಕಾರ್ಡ್ (ಬ್ಯಾಂಕ್ ಖಾತೆಗೆ ಲಿಂಕ್ ಆಗಿರಬೇಕು)" },
+      { "id": "ssp_id", "name": "Student SSP ID / E-Attestation ID", "name_kn": "ವಿದ್ಯಾರ್ಥಿ SSP ಐಡಿ / ಇ-ದೃಢೀಕರಣ ಐಡಿ" },
+      { "id": "caste_income", "name": "Caste & Income Certificate (RD Number)", "name_kn": "ಜಾತಿ ಮತ್ತು ಆದಾಯ ಪ್ರಮಾಣಪತ್ರ (ಆರ್.ಡಿ ಸಂಖ್ಯೆ)" },
+      { "id": "marks_card", "name": "Previous Qualifying Examination Marks Card", "name_kn": "ಹಿಂದಿನ ತರಗತಿಯ ಅಂಕಪಟ್ಟಿ" },
+      { "id": "fee_receipt", "name": "College Admission Fee Receipt & Study Certificate", "name_kn": "ಕಾಲೇಜು ಪ್ರವೇಶ ಶುಲ್ಕ ರಸೀದಿ ಮತ್ತು ವ್ಯಾಸಂಗ ಪ್ರಮಾಣಪತ್ರ" }
+    ],
+    "official_url": "https://ssp.postmatric.karnataka.gov.in/",
+    "source_guidelines_url": "https://ssp.karnataka.gov.in/docs/PostMatric_Guidelines.pdf",
+    "last_verified_at": "2026-09-15",
+    "verification_status": "Verified Official Government Scheme",
+    "verification_notes": "Cross-verified with Social Welfare Department, Karnataka Government Guidelines 2025-26.",
+    "helpline": "1902 / 080-35254757"
+  },
+  {
+    "id": "nsp-postmatric-minority",
+    "name": {
+      "en": "National Scholarship Portal (NSP) - Post-Matric Scholarship for Minorities",
+      "kn": "ರಾಷ್ಟ್ರೀಯ ವಿದ್ಯಾರ್ಥಿವೇತನ ಪೋರ್ಟಲ್ (NSP) - ಅಲ್ಪಸಂಖ್ಯಾತರಿಗೆ ಮೆಟ್ರಿಕ್ ನಂತರದ ವಿದ್ಯಾರ್ಥಿವೇತನ",
+      "hi": "राष्ट्रीय छात्रवृत्ति पोर्टल (एनएसपी) - अल्पसंख्यकों के लिए उत्तर-मैट्रिक छात्रवृत्ति"
+    },
+    "category": "Education & Scholarship",
+    "scope": "Central (All India)",
+    "target_group": "Students",
+    "department": "Ministry of Minority Affairs, Govt of India",
+    "summary": {
+      "en": "Scholarship awarded to meritorious students from notified minority communities (Muslims, Christians, Sikhs, Buddhists, Jains, Parsis) pursuing Class 11 to PhD.",
+      "kn": "ಅಧಿಸೂಚಿತ ಅಲ್ಪಸಂಖ್ಯಾತ ಸಮುದಾಯಗಳ ಪ್ರತಿಭಾವಂತ ವಿದ್ಯಾರ್ಥಿಗಳಿಗೆ 11ನೇ ತರಗತಿಯಿಂದ ಪಿಎಚ್‌ಡಿವರೆಗೆ ವ್ಯಾಸಂಗ ಮಾಡಲು ರಾಷ್ಟ್ರೀಯ ಆರ್ಥಿಕ ನೆರವು.",
+      "hi": "अल्पसंख्यक समुदायों के मेधावी छात्रों को 11वीं कक्षा से लेकर पीएचडी तक की उच्च शिक्षा के लिए केंद्र सरकार की छात्रवृत्ति।"
+    },
+    "eligibility": {
+      "states": ["All"],
+      "occupations": ["Student"],
+      "categories": ["Minority", "Muslim", "Christian", "Sikh", "Buddhist", "Jain", "Parsi"],
+      "max_annual_income": 200000,
+      "min_previous_marks": 50,
+      "education_level": ["Post-Matric", "PUC", "Diploma", "Undergraduate", "Postgraduate"],
+      "criteria_summary": "Minimum 50% marks in previous final exam, family annual income not exceeding ₹2,00,000."
+    },
+    "benefits": {
+      "en": "Admission and tuition fee up to ₹10,000/annum plus maintenance allowance of up to ₹1,200/month for hostellers.",
+      "kn": "ವಾರ್ಷಿಕ ₹10,000 ವರೆಗೆ ಬೋಧನಾ ಶುಲ್ಕ ಮತ್ತು ಹಾಸ್ಟೆಲ್‌ನಲ್ಲಿರುವವರಿಗೆ ಮಾಸಿಕ ₹1,200 ರವರೆಗೆ ನಿರ್ವಹಣಾ ಭತ್ಯೆ.",
+      "hi": "प्रति वर्ष ₹10,000 तक शिक्षण शुल्क एवं ₹1,200/माह तक का निर्वाह भत्ता।"
+    },
+    "required_documents": [
+      { "id": "aadhaar", "name": "Student Aadhaar Card", "name_kn": "ವಿದ್ಯಾರ್ಥಿ ಆಧಾರ್ ಕಾರ್ಡ್" },
+      { "id": "institute_verification", "name": "Institution Verification Certificate", "name_kn": "ಶಿಕ್ಷಣ ಸಂಸ್ಥೆಯ ಪರಿಶೀಲನಾ ಪ್ರಮಾಣಪತ್ರ" },
+      { "id": "income_cert", "name": "Income Certificate issued by Competent Authority", "name_kn": "ಸಕ್ಷಮ ಪ್ರಾಧಿಕಾರ ನೀಡಿದ ಆದಾಯ ಪ್ರಮಾಣಪತ್ರ" },
+      { "id": "minority_cert", "name": "Self-Declaration / Minority Community Certificate", "name_kn": "ಅಲ್ಪಸಂಖ್ಯಾತ ಸಮುದಾಯದ ಪ್ರಮಾಣಪತ್ರ" },
+      { "id": "marks_card", "name": "Self-Attested Certificate of Previous Year Marks", "name_kn": "ಹಿಂದಿನ ವರ್ಷದ ಅಂಕಪಟ್ಟಿ" }
+    ],
+    "official_url": "https://scholarships.gov.in/",
+    "source_guidelines_url": "https://scholarships.gov.in/public/schemeGuidelines/PostMatric_Guidelines.pdf",
+    "last_verified_at": "2026-09-10",
+    "verification_status": "Verified Official Government Scheme",
+    "verification_notes": "Audited against Ministry of Minority Affairs Central Scheme Notification.",
+    "helpline": "0120-6619540"
+  },
+  {
+    "id": "yuva-nidhi-karnataka",
+    "name": {
+      "en": "Yuva Nidhi Scheme (Karnataka)",
+      "kn": "ಯುವ ನಿಧಿ ಯೋಜನೆ (ಕರ್ನಾಟಕ)",
+      "hi": "युवा निधि योजना (कर्नाटक)"
+    },
+    "category": "Employment & Youth Welfare",
+    "scope": "State (Karnataka)",
+    "target_group": "Unemployed Graduates & Diploma Holders",
+    "department": "Department of Skill Development, Entrepreneurship and Livelihood, Govt of Karnataka",
+    "summary": {
+      "en": "Direct monthly financial allowance for unemployed degree and diploma holders in Karnataka for up to 2 years to assist during job search and skill training.",
+      "kn": "ಉದ್ಯೋಗ ಹುಡುಕುತ್ತಿರುವ ಪದವೀಧರರಿಗೆ ತಿಂಗಳಿಗೆ ₹3,000 ಮತ್ತು ಡಿಪ್ಲೊಮಾ ಹೊಂದಿದವರಿಗೆ ತಿಂಗಳಿಗೆ ₹1,500 ಆರ್ಥಿಕ ಭತ್ಯೆ ನೀಡುವ ಯೋಜನೆ.",
+      "hi": "कर्नाटक के बेरोजगार स्नातकों को ₹3,000/माह और डिप्लोमा धारकों को ₹1,500/माह की वित्तीय सहायता।"
+    },
+    "eligibility": {
+      "states": ["Karnataka"],
+      "occupations": ["Unemployed", "Graduate", "Diploma Holder", "Job Seeker"],
+      "categories": ["All"],
+      "max_annual_income": null,
+      "education_level": ["Graduate", "Diploma"],
+      "criteria_summary": "Karnataka domicile, graduated/passed diploma in 2022-23 or later, unemployed for at least 180 days (6 months) after passing, not enrolled in higher studies."
+    },
+    "benefits": {
+      "en": "₹3,000/month for degree holders and ₹1,500/month for diploma holders credited directly to bank account via DBT for up to 24 months.",
+      "kn": "ಪದವೀಧರರಿಗೆ ತಿಂಗಳಿಗೆ ₹3,000 ಹಾಗೂ ಡಿಪ್ಲೊಮಾ ಹೊಂದಿರುವವರಿಗೆ ತಿಂಗಳಿಗೆ ₹1,500 ಗರಿಷ್ಠ 24 ತಿಂಗಳವರೆಗೆ ನೇರ ನಗದು ವರ್ಗಾವಣೆ.",
+      "hi": "डिग्री धारकों को ₹3,000/माह और डिप्लोमा धारकों को ₹1,500/माह सीधे खाते में, अधिकतम 2 वर्ष तक।"
+    },
+    "required_documents": [
+      { "id": "aadhaar", "name": "Aadhaar Card linked with active mobile number", "name_kn": "ಸಕ್ರಿಯ ಮೊಬೈಲ್ ಸಂಖ್ಯೆಗೆ ಲಿಂಕ್ ಆಗಿರುವ ಆಧಾರ್ ಕಾರ್ಡ್" },
+      { "id": "degree_diploma", "name": "Degree / Diploma Certificate and Marks Cards", "name_kn": "ಪದವಿ / ಡಿಪ್ಲೊಮಾ ಪ್ರಮಾಣಪತ್ರ ಮತ್ತು ಅಂಕಪಟ್ಟಿಗಳು" },
+      { "id": "ration_card", "name": "Karnataka Ration Card / Domicile Certificate", "name_kn": "ಕರ್ನಾಟಕ ಪಡಿತರ ಚೀಟಿ / ನಿವಾಸಿ ಪ್ರಮಾಣಪತ್ರ" },
+      { "id": "bank_account", "name": "Bank Passbook seeded with Aadhaar (NPCI enabled)", "name_kn": "ಆಧಾರ್ ಲಿಂಕ್ ಹೊಂದಿರುವ ಬ್ಯಾಂಕ್ ಪಾಸ್ ಬುಕ್" }
+    ],
+    "official_url": "https://sevasindhugs.karnataka.gov.in/",
+    "source_guidelines_url": "https://karnataka.gov.in/schemes/yuva-nidhi",
+    "last_verified_at": "2026-09-12",
+    "verification_status": "Verified Official Government Scheme",
+    "verification_notes": "Verified against Karnataka Seva Sindhu Guarantee Scheme Framework.",
+    "helpline": "1902"
+  },
+  {
+    "id": "pm-kisan-samman-nidhi",
+    "name": {
+      "en": "PM-KISAN (Pradhan Mantri Kisan Samman Nidhi)",
+      "kn": "ಪಿಎಂ-ಕಿಸಾನ್ ಸಮ್ಮಾನ್ ನಿಧಿ (ಪ್ರಧಾನಮಂತ್ರಿ ಕಿಸಾನ್ ಯೋಜನೆ)",
+      "hi": "प्रधानमंत्री किसान सम्मान निधि (पीएम-किसान)"
+    },
+    "category": "Agriculture & Farmer Support",
+    "scope": "Central (All India)",
+    "target_group": "Farmers",
+    "department": "Ministry of Agriculture & Farmers Welfare, Govt of India",
+    "summary": {
+      "en": "Direct income support of ₹6,000 per year in three four-monthly installments to all landholding farmer families across India.",
+      "kn": "ದೇಶದ ಎಲ್ಲಾ ಕೃಷಿ ಭೂಮಿ ಹೊಂದಿರುವ ರೈತ ಕುಟುಂಬಗಳಿಗೆ ವರ್ಷಕ್ಕೆ ₹6,000 ನೇರ ಆದಾಯ ಬೆಂಬಲ ನೀಡುವ ಕೇಂದ್ರ ಸರ್ಕಾರದ ಯೋಜನೆ.",
+      "hi": "देश भर के सभी भूमिधारक किसान परिवारों को ₹6,000 प्रति वर्ष की प्रत्यक्ष आय सहायता (तीन समान किश्तों में)।"
+    },
+    "eligibility": {
+      "states": ["All"],
+      "occupations": ["Farmer", "Agriculture"],
+      "categories": ["All"],
+      "land_ownership": true,
+      "criteria_summary": "Small, marginal and landholding farmer families with cultivable land recorded in state revenue records. Institutional landholders and high-income/tax-paying farmers excluded."
+    },
+    "benefits": {
+      "en": "₹6,000/year disbursed in 3 installments of ₹2,000 each every 4 months directly through DBT.",
+      "kn": "ಪ್ರತಿ 4 ತಿಂಗಳಿಗೊಮ್ಮೆ ₹2,000 ರಂತೆ ವರ್ಷಕ್ಕೆ ₹6,000 ನೇರವಾಗಿ ರೈತರ ಬ್ಯಾಂಕ್ ಖಾತೆಗೆ ಡಿಬಿಟಿ ಮೂಲಕ ಜಮೆ.",
+      "hi": "₹2,000 की तीन किस्तों में प्रति वर्ष ₹6,000 सीधे किसान के बैंक खाते में।"
+    },
+    "required_documents": [
+      { "id": "aadhaar", "name": "Aadhaar Card with completed eKYC", "name_kn": "eKYC ಪೂರ್ಣಗೊಂಡ ಆಧಾರ್ ಕಾರ್ಡ್" },
+      { "id": "land_records", "name": "Land Record Documents (RoR / Pahani / RTC / Khata)", "name_kn": "ಜಮೀನಿನ ಆರ್.ಟಿ.ಸಿ / ಪಹಣಿ / ಪಟ್ಟಾ ದಾಖಲೆಗಳು" },
+      { "id": "bank_passbook", "name": "Aadhaar-seeded Bank Account Passbook", "name_kn": "ಆಧಾರ್ ಲಿಂಕ್ ಆಗಿರುವ ಬ್ಯಾಂಕ್ ಖಾತೆಯ ವಿವರ" },
+      { "id": "mobile", "name": "Active Mobile Number registered with Aadhaar", "name_kn": "ಆಧಾರ್ ನೋಂದಾಯಿತ ಮೊಬೈಲ್ ಸಂಖ್ಯೆ" }
+    ],
+    "official_url": "https://pmkisan.gov.in/",
+    "source_guidelines_url": "https://pmkisan.gov.in/Documents/RevisedGuidelines.pdf",
+    "last_verified_at": "2026-09-18",
+    "verification_status": "Verified Official Government Scheme",
+    "verification_notes": "Verified against PM-KISAN Operational Guidelines revised version 2025.",
+    "helpline": "155261 / 1800-11-5526"
+  },
+  {
+    "id": "ayushman-bharat-pmjay",
+    "name": {
+      "en": "Ayushman Bharat PM-JAY (Health Insurance)",
+      "kn": "ಆಯುಷ್ಮಾನ್ ಭಾರತ್ ಪ್ರಧಾನಮಂತ್ರಿ ಜನ ಆರೋಗ್ಯ ಯೋಜನೆ (PM-JAY)",
+      "hi": "आयुष्मान भारत - प्रधानमंत्री जन आरोग्य योजना (पीएम-जय)"
+    },
+    "category": "Healthcare & Social Security",
+    "scope": "Central (All India)",
+    "target_group": "Low-Income Families & Vulnerable Citizens",
+    "department": "National Health Authority (NHA), Ministry of Health & Family Welfare",
+    "summary": {
+      "en": "World's largest government-funded health assurance scheme providing ₹5 Lakh per family per year for secondary and tertiary care hospitalization.",
+      "kn": "ಬಡ ಮತ್ತು ಮಧ್ಯಮ ವರ್ಗದ ಕುಟುಂಬಗಳಿಗೆ ಆಸ್ಪತ್ರೆ ವೆಚ್ಚಕ್ಕಾಗಿ ವರ್ಷಕ್ಕೆ ₹5 ಲಕ್ಷದವರೆಗೆ ಸಂಪೂರ್ಣ ಉಚಿತ ನಗದು ರಹಿತ ಚಿಕಿತ್ಸೆ ನೀಡುವ ಯೋಜನೆ.",
+      "hi": "द्वितीयक और तृतीयक देखभाल के लिए प्रति परिवार प्रति वर्ष ₹5 लाख तक का कैशलेस स्वास्थ्य बीमा कवर।"
+    },
+    "eligibility": {
+      "states": ["All"],
+      "occupations": ["All", "Informal Worker", "Daily Wage", "Farmer", "Homemaker"],
+      "categories": ["All", "BPL", "SECC", "Economically Weaker Section"],
+      "max_annual_income": 250000,
+      "criteria_summary": "Households identified under SECC 2011 criteria or state-recognized BPL/Priority Household ration card holders."
+    },
+    "benefits": {
+      "en": "Cashless and paperless access to medical services up to ₹5,00,000 per family per year at public and empaneled private hospitals.",
+      "kn": "ಸರ್ಕಾರಿ ಮತ್ತು ನೋಂದಾಯಿತ ಖಾಸಗಿ ಆಸ್ಪತ್ರೆಗಳಲ್ಲಿ ಕುಟುಂಬಕ್ಕೆ ವಾರ್ಷಿಕ ₹5,00,000 ವರೆಗೆ ನಗದು ರಹಿತ ಉಚಿತ ಚಿಕಿತ್ಸೆ.",
+      "hi": "सरकारी और पैनलबद्ध निजी अस्पतालों में प्रति परिवार ₹5,00,000 तक का कैशलेस एवं पेपरलेस उपचार।"
+    },
+    "required_documents": [
+      { "id": "aadhaar", "name": "Aadhaar Card or Valid Government Photo ID", "name_kn": "ಆಧಾರ್ ಕಾರ್ಡ್ ಅಥವಾ ಸರ್ಕಾರಿ ಗುರುತಿನ ಚೀಟಿ" },
+      { "id": "ration_card", "name": "BPL / Antyodaya / Priority Household Ration Card", "name_kn": "ಬಿಪಿಎಲ್ ಅಥವಾ ಅಂತ್ಯೋದಯ ಪಡಿತರ ಚೀಟಿ" },
+      { "id": "mobile", "name": "Active Mobile Number for Ayushman Card issuance", "name_kn": "ಆಯುಷ್ಮಾನ್ ಕಾರ್ಡ್ ಪಡೆಯಲು ಸಕ್ರಿಯ ಮೊಬೈಲ್ ಸಂಖ್ಯೆ" }
+    ],
+    "official_url": "https://beneficiary.nha.gov.in/",
+    "source_guidelines_url": "https://pmjay.gov.in/about/pmjay",
+    "last_verified_at": "2026-09-20",
+    "verification_status": "Verified Official Government Scheme",
+    "verification_notes": "Audited with National Health Authority operational guidelines 2025.",
+    "helpline": "14555 / 1800-11-1565"
+  },
+  {
+    "id": "gruha-lakshmi-karnataka",
+    "name": {
+      "en": "Gruha Lakshmi Scheme (Karnataka)",
+      "kn": "ಗೃಹಲಕ್ಷ್ಮಿ ಯೋಜನೆ (ಕರ್ನಾಟಕ)",
+      "hi": "गृह लक्ष्मी योजना (कर्नाटक)"
+    },
+    "category": "Women Empowerment & Welfare",
+    "scope": "State (Karnataka)",
+    "target_group": "Women Heads of Households",
+    "department": "Department of Women and Child Development, Govt of Karnataka",
+    "summary": {
+      "en": "Empowers women by providing ₹2,000 every month to the designated woman head of household of BPL, APL, and Antyodaya families in Karnataka.",
+      "kn": "ಕರ್ನಾಟಕದ ಬಿಪಿಎಲ್, ಎಪಿಎಲ್ ಮತ್ತು ಅಂತ್ಯೋದಯ ಪಡಿತರ ಚೀಟಿಯಲ್ಲಿ ಕುಟುಂಬದ ಯಜಮಾನಿ ಎಂದು ನಮೂದಿಸಲಾದ ಮಹಿಳೆಗೆ ಪ್ರತಿ ತಿಂಗಳು ₹2,00,00 ಆರ್ಥಿಕ ನೆರವು.",
+      "hi": "कर्नाटक में बीपीएल/अंत्योदय राशन कार्ड धारक परिवारों की महिला मुखिया को हर महीने ₹2,000 की नकद वित्तीय सहायता।"
+    },
+    "eligibility": {
+      "states": ["Karnataka"],
+      "occupations": ["All", "Homemaker", "Self-Employed", "Daily Wage"],
+      "gender": "Female",
+      "categories": ["All", "BPL", "AAY", "APL"],
+      "max_annual_income": 300000,
+      "criteria_summary": "Karnataka domicile, female head of household listed on ration card. The applicant woman or her husband must not be income tax or GST payers."
+    },
+    "benefits": {
+      "en": "₹2,000 per month deposited directly into the woman head's Aadhaar-linked bank account.",
+      "kn": "ಮಹಿಳಾ ಯಜಮಾನಿಯ ಆಧಾರ್ ಲಿಂಕ್ ಆದ ಬ್ಯಾಂಕ್ ಖಾತೆಗೆ ಪ್ರತಿ ತಿಂಗಳು ₹2,000 ನೇರ ವರ್ಗಾವಣೆ.",
+      "hi": "महिला मुखिया के बैंक खाते में प्रतिमाह ₹2,000 की सीधी सहायता।"
+    },
+    "required_documents": [
+      { "id": "ration_card", "name": "Karnataka Ration Card (BPL / Antyodaya / APL)", "name_kn": "ಕರ್ನಾಟಕ ಪಡಿತರ ಚೀಟಿ (ಬಿಪಿಎಲ್ / ಅಂತ್ಯೋದಯ)" },
+      { "id": "aadhaar_woman", "name": "Aadhaar Card of Woman Head of Family", "name_kn": "ಮನೆ ಯಜಮಾನಿಯ ಆಧಾರ್ ಕಾರ್ಡ್" },
+      { "id": "aadhaar_husband", "name": "Aadhaar Card of Husband (if applicable)", "name_kn": "ಪತಿಯ ಆಧಾರ್ ಕಾರ್ಡ್ (ಅನ್ವಯಿಸಿದರೆ)" },
+      { "id": "bank_account", "name": "Aadhaar-linked Bank Passbook copy", "name_kn": "ಆಧಾರ್ ಲಿಂಕ್ ಆಗಿರುವ ಬ್ಯಾಂಕ್ ಪಾಸ್ ಬುಕ್" }
+    ],
+    "official_url": "https://sevasindhugs.karnataka.gov.in/",
+    "source_guidelines_url": "https://welfare.karnataka.gov.in/gruhalakshmi",
+    "last_verified_at": "2026-09-14",
+    "verification_status": "Verified Official Government Scheme",
+    "verification_notes": "Verified against Karnataka Guarantee Scheme Official Portal.",
+    "helpline": "1902"
+  },
+  {
+    "id": "pm-vishwakarma",
+    "name": {
+      "en": "PM Vishwakarma Scheme",
+      "kn": "ಪಿಎಂ ವಿಶ್ವಕರ್ಮ ಯೋಜನೆ",
+      "hi": "पीएम विश्वकर्मा योजना"
+    },
+    "category": "Skill Development & Artisans",
+    "scope": "Central (All India)",
+    "target_group": "Artisans & Traditional Craftsmen",
+    "department": "Ministry of Micro, Small and Medium Enterprises (MSME), Govt of India",
+    "summary": {
+      "en": "End-to-end support for traditional artisans and craftspeople working with hands and tools across 18 designated trades, including skill training, toolkit grant, and low-interest enterprise credit.",
+      "kn": "ಕಮ್ಮಾರರು, ಬಡಗಿಗಳು, ಕುಂಬಾರರು, ದರ್ಜಿಗಳು ಸೇರಿದಂತೆ 18 ಸಾಂಪ್ರದಾಯಿಕ ಕಸುಬುದಾರರಿಗೆ ತರಬೇತಿ, ₹15,000 ಟೂಲ್‌ಕಿಟ್ ಅನುದಾನ ಮತ್ತು ಕಡಿಮೆ ಬಡ್ಡಿದರದ ಸಾಲ ನೀಡುವ ಯೋಜನೆ.",
+      "hi": "18 पारंपरिक व्यवसायों (बढ़ई, लोहार, दर्जी आदि) से जुड़े कारीगरों को कौशल प्रशिक्षण, ₹15,000 का टूलकिट अनुदान और 5% ब्याज पर आसान ऋण।"
+    },
+    "eligibility": {
+      "states": ["All"],
+      "occupations": ["Artisan", "Craftsperson", "Carpenter", "Blacksmith", "Tailor", "Cobbler", "Potter", "Barber", "Sculptor", "Mason"],
+      "min_age": 18,
+      "criteria_summary": "Practicing one of the 18 traditional family-based trades using hands and tools, minimum age 18 years, no family member in government service."
+    },
+    "benefits": {
+      "en": "PM Vishwakarma Certificate & ID card, ₹500/day stipend during basic training, ₹15,000 toolkit e-voucher, and collateral-free enterprise loan up to ₹3 Lakh at 5% interest.",
+      "kn": "ಪ್ರಮಾಣಪತ್ರ ಮತ್ತು ಗುರುತಿನ ಚೀಟಿ, ತರಬೇತಿ ಅವಧಿಯಲ್ಲಿ ದಿನಕ್ಕೆ ₹500 ಭತ್ಯೆ, ₹15,000 ಟೂಲ್‌ಕಿಟ್ ವೋಚರ್ ಮತ್ತು ₹3 ಲಕ್ಷದವರೆಗೆ ರಿಯಾಯಿತಿ ಸಾಲ ಸೌಲಭ್ಯ.",
+      "hi": "प्रमाणपत्र व आईडी कार्ड, ₹500/दिन प्रशिक्षण स्टाइपेंड, ₹15,000 टूलकिट अनुदान, और ₹3 लाख तक का संपार्श्विक-मुक्त रियायती ऋण।"
+    },
+    "required_documents": [
+      { "id": "aadhaar", "name": "Aadhaar Card linked with active mobile number", "name_kn": "ಮೊಬೈಲ್ ಲಿಂಕ್ ಆದ ಆಧಾರ್ ಕಾರ್ಡ್" },
+      { "id": "bank_account", "name": "Bank Account Details (Passbook copy)", "name_kn": "ಬ್ಯಾಂಕ್ ಖಾತೆಯ ವಿವರಗಳು" },
+      { "id": "trade_declaration", "name": "Proof / Self-Declaration of Traditional Trade", "name_kn": "ಸಾಂಪ್ರದಾಯಿಕ ಕಸುಬಿನ ಸ್ವಯಂ ದೃಢೀಕರಣ" },
+      { "id": "ration_card", "name": "Ration Card (for family identification)", "name_kn": "ಪಡಿತರ ಚೀಟಿ" }
+    ],
+    "official_url": "https://pmvishwakarma.gov.in/",
+    "source_guidelines_url": "https://pmvishwakarma.gov.in/Home/Guidelines",
+    "last_verified_at": "2026-09-16",
+    "verification_status": "Verified Official Government Scheme",
+    "verification_notes": "Verified against MSME notification No. 1/2023-P&G.",
+    "helpline": "1800-267-7777 / 011-23061574"
+  },
+  {
+    "id": "pmay-gramin",
+    "name": {
+      "en": "Pradhan Mantri Awas Yojana - Gramin (PMAY-G)",
+      "kn": "ಪ್ರಧಾನ ಮಂತ್ರಿ ಆವಾಸ್ ಯೋಜನೆ - ಗ್ರಾಮೀಣ (PMAY-G)",
+      "hi": "प्रधानमंत्री आवास योजना - ग्रामीण (पीएमएवाई-जी)"
+    },
+    "category": "Housing & Rural Welfare",
+    "scope": "Central (All India)",
+    "target_group": "Rural Houseless & Kutcha House Families",
+    "department": "Ministry of Rural Development, Govt of India",
+    "summary": {
+      "en": "Financial assistance to houseless rural households and those living in dilapidated/kutcha houses for constructing pukka houses with basic amenities.",
+      "kn": "ಸ್ವಂತ ಪಕ್ಕಾ ಮನೆ ಇಲ್ಲದ ಗ್ರಾಮೀಣ ಬಡ ಕುಟುಂಬಗಳಿಗೆ ಸುಸಜ್ಜಿತ ಪಕ್ಕಾ ಮನೆ ನಿರ್ಮಿಸಿಕೊಳ್ಳಲು ನೇರ ಆರ್ಥಿಕ ಅನುದಾನ ನೀಡುವ ಯೋಜನೆ.",
+      "hi": "ग्रामीण क्षेत्रों में बेघर एवं कच्चे घरों में रहने वाले परिवारों को बुनियादी सुविधाओं से युक्त पक्का मकान बनाने हेतु वित्तीय सहायता।"
+    },
+    "eligibility": {
+      "states": ["All"],
+      "occupations": ["All", "Rural Resident", "Daily Wage", "Farmer"],
+      "categories": ["All", "BPL", "SECC", "SC", "ST", "Minority"],
+      "max_annual_income": 200000,
+      "criteria_summary": "Identified in SECC 2011 / Awaas+ list, does not own a pukka house in any part of India, lives in a kutcha house."
+    },
+    "benefits": {
+      "en": "Grant of ₹1,20,000 in plains and ₹1,30,000 in hilly/difficult areas + 90-95 days of unskilled MGNREGS wages + ₹12,000 for toilet construction.",
+      "kn": "ಮನೆ ನಿರ್ಮಾಣಕ್ಕೆ ₹1.20 ಲಕ್ಷದಿಂದ ₹1.30 ಲಕ್ಷ ಸಹಾಯಧನ + ಉದ್ಯೋಗ ಖಾತರಿ ಯೋಜನೆಯಡಿ 95 ದಿನಗಳ ಕೂಲಿ + ಶೌಚಾಲಯ ನಿರ್ಮಾಣಕ್ಕೆ ₹12,000.",
+      "hi": "मैदानी क्षेत्रों में ₹1.20 लाख व कठिन क्षेत्रों में ₹1.30 लाख की सहायता + मनरेगा के तहत अकुशल मजदूरी + शौचालय निर्माण हेतु ₹12,000।"
+    },
+    "required_documents": [
+      { "id": "aadhaar", "name": "Aadhaar Card of all adult family members", "name_kn": "ಕುಟುಂಬದ ಸದಸ್ಯರ ಆಧಾರ್ ಕಾರ್ಡ್" },
+      { "id": "bank_account", "name": "Bank Account details with DBT enablement", "name_kn": "ಡಿಬಿಟಿ ಸಕ್ರಿಯವಾಗಿರುವ ಬ್ಯಾಂಕ್ ಖಾತೆ" },
+      { "id": "mgnrega_jobcard", "name": "MGNREGA Job Card Number", "name_kn": "ಮನರೇಗಾ ಜಾಬ್ ಕಾರ್ಡ್ ಸಂಖ್ಯೆ" },
+      { "id": "land_proof", "name": "Gram Panchayat House Site / Land Certificate", "name_kn": "ಗ್ರಾಮ ಪಂಚಾಯತಿ ನಿವೇಶನ ದಾಖಲೆ" }
+    ],
+    "official_url": "https://pmayg.nic.in/",
+    "source_guidelines_url": "https://pmayg.nic.in/netiay/SchemeGuidelines.aspx",
+    "last_verified_at": "2026-09-19",
+    "verification_status": "Verified Official Government Scheme",
+    "verification_notes": "Audited with MoRD PMAY-G Framework for Implementation.",
+    "helpline": "1800-11-6446"
+  }
+]

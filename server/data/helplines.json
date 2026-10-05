@@ -1,0 +1,62 @@
+[
+  {
+    "category": "General Citizen Services & Grievances",
+    "name": {
+      "en": "National Public Grievance Portal (CPGRAMS)",
+      "kn": "ರಾಷ್ಟ್ರೀಯ ಸಾರ್ವಜನಿಕ ಕುಂದುಕೊರತೆ ಪೋರ್ಟಲ್ (CPGRAMS)",
+      "hi": "केंद्रीय लोक शिकायत निवारण प्रणाली (CPGRAMS)"
+    },
+    "toll_free": "1800-11-0031",
+    "portal_url": "https://pgportal.gov.in/",
+    "operating_hours": "24x7 Online Portal / 9:00 AM - 5:30 PM Helpline",
+    "jurisdiction": "Central Ministries & All States"
+  },
+  {
+    "category": "Karnataka State Citizen Helpdesk",
+    "name": {
+      "en": "Karnataka Janasnehi / Seva Sindhu Citizen Helpline",
+      "kn": "ಕರ್ನಾಟಕ ಜನಸ್ನೇಹಿ / ಸೇವಾ ಸಿಂಧು ಸಹಾಯವಾಣಿ",
+      "hi": "कर्नाटक सेवा सिंधु नागरिक हेल्पलाइन"
+    },
+    "toll_free": "1902",
+    "portal_url": "https://sevasindhugs.karnataka.gov.in/",
+    "operating_hours": "8:00 AM - 8:00 PM (Monday to Saturday)",
+    "jurisdiction": "Karnataka State Welfare & Scholarships"
+  },
+  {
+    "category": "National Scholarship Portal Support",
+    "name": {
+      "en": "NSP Technical & Scheme Helpdesk",
+      "kn": "ರಾಷ್ಟ್ರೀಯ ವಿದ್ಯಾರ್ಥಿವೇತನ ಪೋರ್ಟಲ್ ಸಹಾಯವಾಣಿ",
+      "hi": "राष्ट्रीय छात्रवृत्ति पोर्टल तकनीकी सहायता"
+    },
+    "toll_free": "0120-6619540",
+    "portal_url": "https://scholarships.gov.in/",
+    "operating_hours": "9:30 AM - 6:00 PM (Working days)",
+    "jurisdiction": "All India Scholarships"
+  },
+  {
+    "category": "Farmer & Agriculture Welfare",
+    "name": {
+      "en": "Kisan Call Centre (Ministry of Agriculture)",
+      "kn": "ಕಿಸಾನ್ ಕಾಲ್ ಸೆಂಟರ್ (ಕೃಷಿ ಸಚಿವಾಲಯ)",
+      "hi": "किसान कॉल सेंटर (कृषि मंत्रालय)"
+    },
+    "toll_free": "1800-180-1551",
+    "portal_url": "https://pmkisan.gov.in/",
+    "operating_hours": "6:00 AM - 10:00 PM (All 7 days)",
+    "jurisdiction": "All India Farmers (Multilingual in 22 languages)"
+  },
+  {
+    "category": "National Health Assurance (PM-JAY)",
+    "name": {
+      "en": "Ayushman Bharat PM-JAY National Toll-Free",
+      "kn": "ಆಯುಷ್ಮಾನ್ ಭಾರತ್ ರಾಷ್ಟ್ರೀಯ ಉಚಿತ ಸಹಾಯವಾಣಿ",
+      "hi": "आयुष्मान भारत राष्ट्रीय टोल फ्री हेल्पलाइन"
+    },
+    "toll_free": "14555",
+    "portal_url": "https://pmjay.gov.in/",
+    "operating_hours": "24x7 Round the Clock",
+    "jurisdiction": "All India Health Assurance"
+  }
+]
